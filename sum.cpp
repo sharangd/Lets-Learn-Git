@@ -8,7 +8,7 @@ using namespace std
         int b =  6 ;
         int c = (a + b) ;
 
-        cout << c << endl;
+        cout << "This sum is " << c << endl;
 
         return 0;
- }
+ }      
